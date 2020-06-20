@@ -1,8 +1,3 @@
-/*
-* Mahmut Hilmi Arıkmert 
-* Id: 150117024
-*/
-
 //implement libraries
 #include <stdio.h>
 #include <stdlib.h>
