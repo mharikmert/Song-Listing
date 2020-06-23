@@ -193,27 +193,6 @@ int main(){
 			}
 	 	}
 	}
-	/*duration_head = chrono_head->chrono_next; 
-	duration_head->chrono_next = alpha_head;
-	alpha_head->chrono_next = random_head;
-	random_head->chrono_next = NULL;
-
-	duration_head->duration_next = random_head;
-	random_head->duration_next = chrono_head;
-	chrono_head->duration_next = alpha_head;
-	alpha_head->duration_next = NULL;
-
-	alpha_head->alpha_next = duration_head;
-	duration_head->alpha_next = chrono_head;
-	chrono_head->alpha_next = random_head;
-	random_head->alpha_next = NULL;
-
-	random_head->random_next = alpha_head;
-	alpha_head->random_next = duration_head;
-	duration_head->random_next = chrono_head;
-	chrono_head->random_next = NULL;
-*/
-}
 /*
 *insertNode to insert a node with songName and duration properties
 */
